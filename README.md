@@ -20,4 +20,4 @@ Help Me
 
 ### Copyright
 
-2019 
+2019. All rights reserved
